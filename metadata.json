@@ -1,0 +1,6 @@
+{
+  "name": "Band Lock",
+  "description": "Band locking and signal monitoring tool for Qualcomm modems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

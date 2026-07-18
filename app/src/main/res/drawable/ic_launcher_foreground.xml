@@ -1,0 +1,174 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle Drop Shadow / Glow for 4G/5G text for premium readability -->
+    <group android:translateX="0.8" android:translateY="0.8">
+        <!-- 4 -->
+        <path
+            android:pathData="M 30,42 L 30,50 L 36,50 M 35,42 L 35,56"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- G (left) -->
+        <path
+            android:pathData="M 47,45 A 5,5 0 1,0 47,53 L 47,49 L 43,49"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- / -->
+        <path
+            android:pathData="M 52,56 L 56,42"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round" />
+        <!-- 5 -->
+        <path
+            android:pathData="M 67,43 L 61,43 L 61,48 L 66,48 L 66,54 L 61,54"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- G (right) -->
+        <path
+            android:pathData="M 79,45 A 5,5 0 1,0 79,53 L 79,49 L 75,49"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <!-- LOCK Text Shadow -->
+        <!-- L -->
+        <path
+            android:pathData="M 38,66 L 38,73 L 42,73"
+            android:strokeWidth="2.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- O -->
+        <path
+            android:pathData="M 46,67 L 50,67 L 50,73 L 46,73 Z"
+            android:strokeWidth="2.5"
+            android:strokeColor="#40000000"
+            android:strokeLineJoin="round" />
+        <!-- C -->
+        <path
+            android:pathData="M 60,67 L 56,67 L 56,73 L 60,73"
+            android:strokeWidth="2.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- K -->
+        <path
+            android:pathData="M 65,66 L 65,73 M 69,66 L 65,69.5 L 69,73"
+            android:strokeWidth="2.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <!-- Signal Wave Arcs Shadow -->
+        <path
+            android:pathData="M 72,28 A 12,12 0 0,1 84,40"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M 66,22 A 20,20 0 0,1 86,42"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M 60,16 A 28,28 0 0,1 88,44"
+            android:strokeWidth="3.5"
+            android:strokeColor="#40000000"
+            android:strokeLineCap="round" />
+    </group>
+
+    <!-- Main Foreground Elements (White) -->
+    <group>
+        <!-- 4 -->
+        <path
+            android:pathData="M 30,42 L 30,50 L 36,50 M 35,42 L 35,56"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- G (left) -->
+        <path
+            android:pathData="M 47,45 A 5,5 0 1,0 47,53 L 47,49 L 43,49"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- / -->
+        <path
+            android:pathData="M 52,56 L 56,42"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+        <!-- 5 -->
+        <path
+            android:pathData="M 67,43 L 61,43 L 61,48 L 66,48 L 66,54 L 61,54"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- G (right) -->
+        <path
+            android:pathData="M 79,45 A 5,5 0 1,0 79,53 L 79,49 L 75,49"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <!-- LOCK Text -->
+        <!-- L -->
+        <path
+            android:pathData="M 38,66 L 38,73 L 42,73"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- O -->
+        <path
+            android:pathData="M 46,67 L 50,67 L 50,73 L 46,73 Z"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineJoin="round" />
+        <!-- C -->
+        <path
+            android:pathData="M 60,67 L 56,67 L 56,73 L 60,73"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <!-- K -->
+        <path
+            android:pathData="M 65,66 L 65,73 M 69,66 L 65,69.5 L 69,73"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <!-- Signal Wave Arcs -->
+        <path
+            android:pathData="M 72,28 A 12,12 0 0,1 84,40"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M 66,22 A 20,20 0 0,1 86,42"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M 60,16 A 28,28 0 0,1 88,44"
+            android:strokeWidth="3.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+    </group>
+</vector>
